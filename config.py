@@ -43,7 +43,7 @@ except ValueError:
 
 
 
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "{filename}\n\nJoin :- @MRxVOLTZ")
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "𝐉𝐨𝐢𝐧 ➫ @MRxVOLTZ ♥️ {filename}\n\n𝐉𝐨𝐢𝐧 ➫ @MRxVOLTZ ♥️")
 
 PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" else False
 
