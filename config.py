@@ -17,7 +17,7 @@ DB_NAME = os.environ.get("DB_NAME", "igsweety293")
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002548081189"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002194487459"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002607004114"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1002627530241"))
 
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "600")) # auto delete in seconds
